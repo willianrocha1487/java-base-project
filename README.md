@@ -5,7 +5,7 @@ Projeto com implementação básica para ser usado em outros projetos afim de es
 ### Resumo ###
 
 CRUD de usuários com atributos name, email e password sendo persistidos em banco de dados H2(arquivo).
-Contém validações nos DTO's com javax.validation
+Contém validações nos DTO's com javax.validation e controlador central de excessões implementado utilizando @ControllerAdvice.
 
 ### Tecnologias usadas ###
 
